@@ -6,6 +6,8 @@ public class Test
         System.out.println(message);
     }
 
+    // Method to perform Addition operation
+
     public int add(int a, int b){
         return a + b;
     }
