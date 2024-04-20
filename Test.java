@@ -1,5 +1,7 @@
 public class Test
 {
+    // Method to Print the Message
+    
     public void print(String message) {
         System.out.println(message);
     }
